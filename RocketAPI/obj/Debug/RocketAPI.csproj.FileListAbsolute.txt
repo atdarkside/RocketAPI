@@ -1,0 +1,20 @@
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\RocketAPI.exe.config
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\RocketAPI.exe
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\RocketAPI.pdb
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\CoreTweet.dll
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\Newtonsoft.Json.dll
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\Pokemon.Go.Rocket.API.dll
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\CoreTweet.xml
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\Newtonsoft.Json.xml
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\obj\Debug\RocketAPI.csprojResolveAssemblyReference.cache
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\obj\Debug\RocketAPI.exe
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\obj\Debug\RocketAPI.pdb
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\Google.Protobuf.dll
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\POGOProtos.dll
+B:\Users\yuuya\Documents\visual studio 2015\Projects\RocketAPI\RocketAPI\bin\Debug\Google.Protobuf.xml
+B:\Git\RocketAPI\RocketAPI\bin\Debug\RocketAPI.exe.config
+B:\Git\RocketAPI\RocketAPI\obj\Debug\RocketAPI.exe
+B:\Git\RocketAPI\RocketAPI\obj\Debug\RocketAPI.pdb
+B:\Git\RocketAPI - コピー\RocketAPI\bin\Debug\RocketAPI.exe.config
+B:\Git\RocketAPI - コピー\RocketAPI\obj\Debug\RocketAPI.exe
+B:\Git\RocketAPI - コピー\RocketAPI\obj\Debug\RocketAPI.pdb
