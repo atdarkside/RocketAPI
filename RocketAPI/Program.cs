@@ -17,8 +17,8 @@ using PokemonGo.RocketAPI.Rpc;
 namespace RocketAPI {
     class Program {
         static void Main(string[] args) {
-            string googleUserName = "pf35301@gmail.com";
-            string googlePassword = "yuua0331";
+            string googleUserName = "";
+            string googlePassword = "";
             Client aaTATaa = new Client(new Setting(googleUserName,googlePassword), new ApiFailureStrategy());
             aaTATaa.Login.DoLogin();
             Console.WriteLine(aaTATaa.Player.GetPlayerProfile("aaTATaa").ToString());
